@@ -1,0 +1,9 @@
+# Ignorar o arquivo terraform.tfvars com credenciais e assinaturas
+terraform.tfvars
+
+# Ignorar também outros arquivos gerados pelo Terraform que não precisam ser versionados
+*.tfstate
+*.tfstate.backup
+.terraform/
+#ignorar demais arquivos opcionais
+.terraform.lock.hcl
