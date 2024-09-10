@@ -89,8 +89,5 @@ terraform destroy
 
 ## Contribuições
 
-Sinta-se à vontade para abrir **issues** ou enviar **pull requests**. Este repositório é voltado para aprendizado, então melhorias são bem-vindas!
+Se identificar algum erro, melhoria ou apenas quiser deixar um feedback: gentiltechdf@gmail.com
 
----
-
-Desafio criado para aprendizado de Infraestrutura como Código (IaC) com Terraform no Azure.
